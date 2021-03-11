@@ -1,2 +1,3 @@
-# kevinwang905.github.io-json_reader_SMD
-Q4
+# Medical Data JSON
+
+This code parses medical JSONs
